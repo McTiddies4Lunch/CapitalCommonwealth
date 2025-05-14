@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Capital Commonwealth",
+    "description": "Overhauls the Commonwealth to match the vibes of the Capitol Wasteland of Fallout 3, also borrows some systems and gear from New Vegas. This list will be a gritty, tough experience that you will have to use your head to get through alive. From feral ghoul infestations, to realistic, tough, and fear inducing power armor that requires training to use.",
+    "author": "McTiddies4Lunch",
+    "maintainers": [
+      "github/McTiddies4Lunch",
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Overhaul",
+      "Roleplay"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "",
+      "readme": "https://www.modlists.net/docs/7capcom/Home",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_bf611722-3484-454a-bbdf-1f5a57762c59",
+      "machineURL": "capitalcommonwealth",
+      "discordURL": "https://discord.gg/myc6aSEPFe"
+    },
+    "download_metadata": {
+      "Hash": "VIjFXdWulVQ=",
+      "Size": 56412716,
+      "NumberOfArchives": 361,
+      "SizeOfArchives": 65880413030,
+      "NumberOfInstalledFiles": 33348,
+      "SizeOfInstalledFiles": 72106188263
+    },
+    "version": "0.0.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-12-07T16:18:32.8550676Z",
+    "repositoryName": ""
+  }
+]
