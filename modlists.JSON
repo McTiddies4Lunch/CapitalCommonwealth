@@ -14,11 +14,11 @@
     "DLC Required"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/main/Photo2.png",
+      "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/main/bckgrnd.png",
       "readme": "https://www.modlists.net/docs/7capcom/Home",
       "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_a395fec3-8057-4779-a197-d63fc87e93b7",
       "machineURL": "mt4lcapitalcommonwealth",
