@@ -1,23 +1,22 @@
 [
   {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Capital Commonwealth",
     "description": "Capital Commonwealth is a modlist inspired by Fallout 3's Capital Wasteland, with some bits of New Vegas sprinkled in, it's a harder list, but not to the point of being a chore to play. It maintains a gritty, unsafe, and dark atmosphere, without sacrificing fun, and playability.",
-    "author": "McTiddies4Lunch",
+    "author": "MT4L",
     "maintainers": [
       "github/McTiddies4Lunch"
     ],
     "game": "fallout4",
-    "official": false,
     "tags": [
       "Overhaul",
       "Roleplay"
     ],
     "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
+    "image_contains_title": false,
     "force_down": false,
     "links": {
+      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/main/splash.png",
       "readme": "https://www.modlists.net/docs/7capcom/Home",
       "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_96867041-2c6e-466b-9aed-04c3b1c9c071",
@@ -25,6 +24,7 @@
       "discordURL": "https://discord.gg/myc6aSEPFe"
     },
     "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "SomNZoXAIDM=",
       "Size": 55259036,
       "NumberOfArchives": 359,
@@ -32,9 +32,6 @@
       "NumberOfInstalledFiles": 32930,
       "SizeOfInstalledFiles": 71996755779
     },
-    "version": "0.0.5",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-15-05T16:18:32.8550676Z",
-    "repositoryName": ""
+    "version": "0.0.5"
   }
 ]
