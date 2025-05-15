@@ -18,10 +18,10 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png",
+      "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/main/splash.png",
       "readme": "https://www.modlists.net/docs/7capcom/Home",
       "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_96867041-2c6e-466b-9aed-04c3b1c9c071",
-      "machineURL": "capitalcommonwealth",
+      "machineURL": "mt4lcapitalcommonwealth",
       "discordURL": "https://discord.gg/myc6aSEPFe"
     },
     "download_metadata": {
