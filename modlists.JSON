@@ -20,19 +20,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/main/splash.png",
       "readme": "https://www.modlists.net/docs/7capcom/Home",
-      "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_96867041-2c6e-466b-9aed-04c3b1c9c071",
+      "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_a395fec3-8057-4779-a197-d63fc87e93b7",
       "machineURL": "mt4lcapitalcommonwealth",
       "discordURL": "https://discord.gg/myc6aSEPFe"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "SomNZoXAIDM=",
-      "Size": 55259036,
+      "Hash": "1TZUev7Hn+k=",
+      "Size": 55270439,
       "NumberOfArchives": 359,
-      "SizeOfArchives": 65763413693,
-      "NumberOfInstalledFiles": 32930,
-      "SizeOfInstalledFiles": 71996755779
+      "SizeOfArchives": 65782480061,
+      "NumberOfInstalledFiles": 32982,
+      "SizeOfInstalledFiles": 72006215863
     },
-    "version": "0.0.5"
+    "version": "0.0.6"
   }
 ]
