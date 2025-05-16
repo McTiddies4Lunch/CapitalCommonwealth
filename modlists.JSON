@@ -1,38 +1,43 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Capital Commonwealth",
-    "description": "Capital Commonwealth is a modlist inspired by Fallout 3's Capital Wasteland, with some bits of New Vegas sprinkled in, it's a harder list, but not to the point of being a chore to play. It maintains a gritty, unsafe, and dark atmosphere, without sacrificing fun, and playability.",
+    "description": "Capital Commonwealth is a modlist inspired by Fallout 3\u0027s Capital Wasteland, with some bits of New Vegas sprinkled in, it\u0027s a harder list, but not to the point of being a chore to play. It maintains a gritty, unsafe, and dark atmosphere, without sacrificing fun, and playability.",
     "author": "MT4L",
     "maintainers": [
       "github/McTiddies4Lunch"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
-    "Steam",
-    "Survival",
-    "DLC Required"
+      "Steam",
+      "Survival",
+      "DLC Required"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/main/bckgrnd.png",
       "readme": "https://www.modlists.net/docs/7capcom/Home",
-      "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_a395fec3-8057-4779-a197-d63fc87e93b7",
+      "download": "https://authored-files.wabbajack.org/Capital Commonwealth.wabbajack_07802d7c-c25e-423e-ae28-a099b8c71beb",
       "machineURL": "mt4lcapitalcommonwealth",
-      "discordURL": "https://discord.gg/myc6aSEPFe"
+      "discordURL": "https://discord.gg/myc6aSEPFe",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "1TZUev7Hn+k=",
-      "Size": 55270439,
-      "NumberOfArchives": 359,
-      "SizeOfArchives": 65782480061,
-      "NumberOfInstalledFiles": 32982,
-      "SizeOfInstalledFiles": 72006215863
+      "Hash": "obZ8Xfh8xFE=",
+      "Size": 57505221,
+      "NumberOfArchives": 368,
+      "SizeOfArchives": 66046651778,
+      "NumberOfInstalledFiles": 32933,
+      "SizeOfInstalledFiles": 72125226540,
+      "TotalSize": 138171878318
     },
-    "version": "0.0.6"
+    "version": "0.1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-16T14:39:50.1588286Z",
+    "repositoryName": ""
   }
 ]
