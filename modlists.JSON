@@ -21,21 +21,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/main/bckgrnd2.png",
       "readme": "https://www.modlists.net/docs/7capcom/Home",
-      "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_491cbdf6-a42c-4ca0-9524-7c85390e4aee",
+      "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_eb16313d-bbbf-4637-9463-399850e31c37",
       "machineURL": "mt4lcapitalcommonwealth",
       "discordURL": "https://discord.gg/myc6aSEPFe",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "eq4Fu/wMf64=",
-      "Size": 57517984,
+      "Hash": "/RosyH30odo=",
+      "Size": 56287799,
       "NumberOfArchives": 382,
       "SizeOfArchives": 62940888055,
-      "NumberOfInstalledFiles": 31282,
-      "SizeOfInstalledFiles": 69332148610,
-      "TotalSize": 132273036665
+      "NumberOfInstalledFiles": 31354,
+      "SizeOfInstalledFiles": 69333032132,
+      "TotalSize": 132273920187
     },
-    "version": "0.1.2",
+    "version": "0.1.3",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-05-16T14:39:50.1588286Z",
     "repositoryName": ""
