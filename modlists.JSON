@@ -20,22 +20,22 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/main/bckgrnd2.png",
-      "readme": "https://www.modlists.net/docs/7capcom/Home",
-      "download": "https://authored-files.wabbajack.org/Capital Commonwealth.wabbajack_75fc87cf-53dd-4741-94c2-3277b74a5086",
+      "readme": "https://www.modlists.net/docs/2capcom/Home",
+      "download": "https://authored-files.wabbajack.org/Capital%20Commonwealth.wabbajack_48b24d5b-4785-4bfd-9def-c8b50cd05de0",
       "machineURL": "mt4lcapitalcommonwealth",
       "discordURL": "https://discord.gg/myc6aSEPFe",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "ZxzK9xuV9I8=",
-      "Size": 172847755,
-      "NumberOfArchives": 436,
-      "SizeOfArchives": 73925900428,
-      "NumberOfInstalledFiles": 54578,
-      "SizeOfInstalledFiles": 84366020996,
-      "TotalSize": 158291921424
+      "Hash": "OLH2NvA9nSk=",
+      "Size": 187331944,
+      "NumberOfArchives": 460,
+      "SizeOfArchives": 77028846970,
+      "NumberOfInstalledFiles": 54134,
+      "SizeOfInstalledFiles": 87846823763,
+      "TotalSize": 164875670733
     },
-    "version": "0.2.1",
+    "version": "0.2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-05-24T00:17:41.1562718Z",
     "repositoryName": ""
