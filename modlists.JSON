@@ -21,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/ccwjimage.png",
       "readme": "https://www.modlists.net/docs/2capcom/Home",
-      "download": "https://authored-files.wabbajack.org/Capital Commonwealth.wabbajack_6e89226b-5a66-4cd3-aad7-9c32097e1004",
+      "download": "https://authored-files.wabbajack.org/Capital Commonwealth.wabbajack_73ef7418-2ba6-44df-928f-21754c6d066d",
       "machineURL": "mt4lcapitalcommonwealth",
       "discordURL": "https://discord.gg/myc6aSEPFe",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "cYayMzZthvo=",
-      "Size": 140471884,
-      "NumberOfArchives": 551,
-      "SizeOfArchives": 84881094555,
-      "NumberOfInstalledFiles": 42171,
-      "SizeOfInstalledFiles": 98270583431,
-      "TotalSize": 183151677986
+      "Hash": "ccQpgbHCmvQ=",
+      "Size": 138897703,
+      "NumberOfArchives": 548,
+      "SizeOfArchives": 84287915983,
+      "NumberOfInstalledFiles": 42160,
+      "SizeOfInstalledFiles": 97666289647,
+      "TotalSize": 181954205630
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-09T10:53:45.3506162Z",
+    "dateUpdated": "2025-06-09T17:25:20.2060386Z",
     "repositoryName": ""
   }
 ]
